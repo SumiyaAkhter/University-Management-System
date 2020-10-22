@@ -19,6 +19,8 @@ public class createuser extends javax.swing.JFrame {
         setLocationRelativeTo(null);
     }
     String host ="jdbc:derby://localhost:1527/UniversityManagementSystem";
+     String username="university";
+        String password="123a";
 
     /**
      * This method is called from within the constructor to initialize the form.
