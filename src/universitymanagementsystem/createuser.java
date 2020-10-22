@@ -16,12 +16,17 @@ public class createuser extends javax.swing.JFrame {
      */
     public createuser() {
         initComponents();
+        getdata();
         setLocationRelativeTo(null);
     }
     String host ="jdbc:derby://localhost:1527/UniversityManagementSystem";
      String username="university";
         String password="123a";
-
+private void getdata()
+{
+    
+}
+    
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
