@@ -19,9 +19,10 @@ public class Home extends javax.swing.JFrame {
          
         check();
     }
+    Login log=new Login();
 private void check()
 {
-    Login log=new Login();
+    
     username.setText(log.username);
     type.setText(log.type);
     if(log.type.equals("operator"))
@@ -251,6 +252,11 @@ private void check()
         createuser user=new createuser();
         user.setVisible(true);
     }//GEN-LAST:event_jMenuItem2ActionPerformed
+ private void jMenu6MouseClicked(java.awt.event.MouseEvent evt) {                                    
+        // TODO add your handling code here:
+        this.dispose();
+        log.setVisible(true);
+    }                                   
 
     /**
      * @param args the command line arguments
