@@ -10,7 +10,7 @@ import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 /**
  *
- * @author LENOVO
+ * @author SADIA
  */
 public class admissionform extends javax.swing.JFrame {
 
