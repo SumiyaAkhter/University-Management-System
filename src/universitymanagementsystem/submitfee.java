@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 /**
  *
- * @author LENOVO
+ * @author SADIA
  */
 public class submitfee extends javax.swing.JFrame {
 
