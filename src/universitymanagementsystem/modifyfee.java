@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author LENOVO
+ * @author SADIA
  */
 public class modifyfee extends javax.swing.JFrame {
 
