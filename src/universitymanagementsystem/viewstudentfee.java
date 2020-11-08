@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author LENOVO
+ * @author SADIA
  */
 public class viewstudentfee extends javax.swing.JFrame {
 
